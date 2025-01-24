@@ -5,4 +5,4 @@
  <br />
 i make random little projects. <br /> </br>
 
-currently working on small web projects and taking cs50.<br>looking to collaborate with like-minded individuals and learn gamedev.<br><br>i run a blog at: https://archiiv.cc<br>i have a music player at: https://music.archiiv.cc<br>i have an emulator at: https://emulator.archiiv.cc
+currently working on small web projects<br>looking to collaborate with like-minded individuals<br><br>i run a blog at: https://archiiv.cc<br>i have a music player at: https://music.archiiv.cc<br>i have an emulator at: https://emulator.archiiv.cc
