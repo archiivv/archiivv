@@ -5,4 +5,4 @@
  <br />
 i make random little projects. <br />
 
-currently working on small web projects<br>looking to collaborate with like-minded individuals<br><br>i run a blog at: https://archiiv.org<br>i have a music player at: https://music.archiiv.org<br>i have an emulator at: https://emulator.archiiv.org
+currently working on small web projects<br>looking to collaborate with like-minded individuals<br><br>i run a blog at: https://blog.archiiv.org<br>i have a music player at: https://music.archiiv.org<br>i have an emulator at: https://emulator.archiiv.org
