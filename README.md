@@ -1,9 +1,9 @@
 <br />
 <div align="center">
   <a href="https://archiiv.org">
-    <img src="https://d2w9rnfcy7mm78.cloudfront.net/36172125/original_12748c4c55e15261c791f3474b33f02a.png?1745347261?bc=0" alt="Logo" width="80" height="100">
+    <img src="https://discordmojis.com/emojis/10031-60fps_parrot/download" alt="Logo" width="80" height="80">
   </a>
-  <h3 align="center">archiiv</h3>
+  <h1 align="center">archiiv</h1>
 
   <p align="center">
 web architect and digital systems scholar.
@@ -16,7 +16,7 @@ web architect and digital systems scholar.
 
   <div align="center">
    
-# hello there <img src="https://discordmojis.com/emojis/10031-60fps_parrot/download" width="30px"></br>
+# hello there</br>
 
 <br />
  
