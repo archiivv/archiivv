@@ -5,7 +5,7 @@
   </a>
   <h1 align="center">archiiv</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,ts,js,py,react,java,tailwind,godot)](https://archiiv.org)
+[![My Skills](https://skillicons.dev/icons?i=html,css,ts,js,react,java,tailwind,godot)](https://archiiv.org)
 
   <p align="center">
 web architect and digital systems scholar.
